@@ -1,0 +1,14 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdftex 2012.10.31)  31 OCT 2012 15:17
+entering extended mode
+**C:/Users/coronelp/Desktop/TexCv*Template/ifsym.sty
+("C:/Users/coronelp/Desktop/TexCv Template/ifsym.sty"
+! Undefined control sequence.
+l.14 \ProvidesPackage
+                     {ifsym}[2000/04/18 I.Kloeckl]
+? 
+! Emergency stop.
+l.14 \ProvidesPackage
+                     {ifsym}[2000/04/18 I.Kloeckl]
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!
