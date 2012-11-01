@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.7.2)  31 OCT 2012 18:12
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.7.2)  1 NOV 2012 10:45
 entering extended mode
 **Cv_Pedro_Coronel_ES.tex
 (C:\Users\coronelp\Documents\GitHub\CVs\Cv_Pedro_Coronel_ES.tex
@@ -714,22 +714,22 @@ LaTeX Font Info:    External font `lmex10' loaded for size
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 133.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 164.
  [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 133.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 164.
 
 (C:\Users\coronelp\Documents\GitHub\CVs\Cv_Pedro_Coronel_ES.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 133.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 133.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 164.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 164.
 Package rerunfilecheck Info: File `Cv_Pedro_Coronel_ES.out' has not changed.
-(rerunfilecheck)             Checksum: 330C0D5158BC89073ECBB632741883D5;1447.
+(rerunfilecheck)             Checksum: 3ECDC90FD0E950E1185BC9854323E279;1209.
  ) 
 Here is how much of TeX's memory you used:
- 9744 strings out of 494045
- 141431 string characters out of 3145961
- 282323 words of memory out of 3000000
+ 9752 strings out of 494045
+ 141530 string characters out of 3145961
+ 278323 words of memory out of 3000000
  12859 multiletter control sequences out of 15000+200000
- 45246 words of font info for 54 fonts, out of 3000000 for 9000
+ 48691 words of font info for 60 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  42i,13n,67p,785b,338s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program F
@@ -738,9 +738,9 @@ MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
 onts/type1/public/lm/lmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/p
 ublic/lm/lmri10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lm
 ro10.pfb>
-Output written on Cv_Pedro_Coronel_ES.pdf (3 pages, 165686 bytes).
+Output written on Cv_Pedro_Coronel_ES.pdf (3 pages, 157147 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
- 16481 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 88 PDF objects out of 1000 (max. 8388607)
+ 14 named destinations out of 1000 (max. 500000)
+ 16977 words of extra memory for PDF output out of 17280 (max. 10000000)
 
